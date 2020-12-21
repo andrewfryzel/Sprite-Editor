@@ -32,5 +32,5 @@ dimensions, opening a file, and exporting as a GIF are present.
 The Edit submenu is currently unused, but in the future may be used
 for Undo, Redo, and other actions.
 
-Under View, a reset scale button is present to return theediting window
+Under View, a reset scale button is present to return the editing window
 to 100% zooming.
