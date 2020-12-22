@@ -2,7 +2,10 @@
 
 The Sprite Editor allows users to create, save, and edit sprites. Files are saved by default as .gif files. 
 
-Video Link: https://www.youtube.com/watch?v=C31eVJkaI1I 
+
+[![Sprite Editor Video](sprite_youtube.PNG)](https://youtu.be/yA0y7A_2idY)
+
+Video Link: https://youtu.be/yA0y7A_2idY
 
 # Qt Sprite Editor
 
